@@ -69,6 +69,7 @@ ClientOption.EnableGuardian: "クライアントガーディアンを有効化�
 ClientOption.ShowPlayerInfo: "プレイヤーのプラットフォームとクライアント情報を表示"
 ClientOption.UseModCursor: "MODカーソルを使用"
 ClientOption.FastLaunchMode: "高速起動モード"
+ClientOption.OfflineMode: "オフライン モード（実験的）"
 ClientOption.VersionCheat: "バージョン同期チェックを回避"
 ClientOption.GodMode: "ゴッドモード"
 ClientOption.NoGameEnd: "ゲーム終了なし"
@@ -210,6 +211,7 @@ MusPlay.CanPlay: "クリックして再生"
 MusPlay.NoFound: "ファイルなし"
 
 # 官方音乐 / Musics
+Mus.FinalSuspect: "Final Suspect 终极嫌疑"
 Mus.GongXiFaCai: "恭喜发财（旧正月おめでとう）"
 Mus.NeverGonnaGiveYouUp: "Never Gonna Give You Up"
 Mus.CountingStars: "Counting Stars"
@@ -230,12 +232,12 @@ DisplayedRoleTag.Role: "役職"
 DisplayedRoleTag.PlayerIdentityTag: "アイデンティティ・タグ"
 DisplayedRoleTag.Room: "部屋"
 
-PlayerIdentityTag.Hard_Cleared: "確定市民"
-PlayerIdentityTag.Silver_Clear: "銀水"
-PlayerIdentityTag.Wolf_Bucket: "狼ポジション"
-PlayerIdentityTag.No_Kill: "襲撃なし"
-PlayerIdentityTag.Outside_Position: "外ポジション"
-PlayerIdentityTag.Inside_Position: "内ポジション"
+PlayerIdentityTag.Safe: "確定市民"
+PlayerIdentityTag.Likely_Safe: "銀水"
+PlayerIdentityTag.Suspect: "狼ポジション"
+PlayerIdentityTag.Alibi: "襲撃なし"
+PlayerIdentityTag.Confirmed_Position: "外ポジション"
+PlayerIdentityTag.Unconfirmed_Position: "内ポジション"
 
 # 通知 / Notifications
 ## 原版

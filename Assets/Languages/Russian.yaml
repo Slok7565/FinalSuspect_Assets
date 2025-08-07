@@ -69,6 +69,7 @@ ClientOption.EnableGuardian: "Включить клиент-защиту (экс
 ClientOption.ShowPlayerInfo: "Показывать платформу и клиент игрока"
 ClientOption.UseModCursor: "Использовать мод-указатель"
 ClientOption.FastLaunchMode: "Быстрый запуск"
+ClientOption.OfflineMode: "Автономный режим (экспериментально)"
 ClientOption.VersionCheat: "Обход проверки версии"
 ClientOption.GodMode: "Режим бога"
 ClientOption.NoGameEnd: "Бесконечная игра"
@@ -210,6 +211,7 @@ MusPlay.CanPlay: "Нажмите для воспроизведения"
 MusPlay.NoFound: "Файл отсутствует"
 
 # 官方音乐 / Musics
+Mus.FinalSuspect: "Final Suspect 终极嫌疑"
 Mus.GongXiFaCai: "恭喜发财 (Счастливый китайский новый год)"
 Mus.NeverGonnaGiveYouUp: "Never Gonna Give You Up"
 Mus.CountingStars: "Counting Stars"
@@ -230,12 +232,12 @@ DisplayedRoleTag.Role: "Роль"
 DisplayedRoleTag.PlayerIdentityTag: "Метка личности"
 DisplayedRoleTag.Room: "Комната"
 
-PlayerIdentityTag.Hard_Cleared: "Проверенный мирный"
-PlayerIdentityTag.Silver_Clear: "Вероятный мирный"
-PlayerIdentityTag.Wolf_Bucket: "Волчья яма"
-PlayerIdentityTag.No_Kill: "Без убийства"
-PlayerIdentityTag.Outside_Position: "Внешняя позиция"
-PlayerIdentityTag.Inside_Position: "Внутренняя позиция"
+PlayerIdentityTag.Safe: "Проверенный мирный"
+PlayerIdentityTag.Likely_Safe: "Вероятный мирный"
+PlayerIdentityTag.Suspect: "Волчья яма"
+PlayerIdentityTag.Alibi: "Без убийства"
+PlayerIdentityTag.Confirmed_Position: "Внешняя позиция"
+PlayerIdentityTag.Unconfirmed_Position: "Внутренняя позиция"
 
 # 通知 / Notifications
 ## 原版
