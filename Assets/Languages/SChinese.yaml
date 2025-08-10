@@ -96,6 +96,7 @@ Tip.Downloading: "下载中……"
 Tip.PleaseWait: "请稍候……"
 Tip.Playing: "播放中……"
 Tip.Parsing: "解析中……"
+Tip.Pausing: "已暂停"
 Tip.Updating: "更新中……"
 Tip.DownLoadFinished: "下载完成"
 Tip.DownLoadSucceeded: "下载成功！"
@@ -152,10 +153,11 @@ UpdateRemind.BySelf_Title: "更新提示"
 UpdateRemind.BySelf_Text: "该版本不支持一键更新，请您手动更新"
 
 # 选择更新渠道 / Update Chose Source
-UpdateSource.Choose: "请选择更新渠道\n如果您不知道选什么，请选择【Gitee】或者【Api（境内首选）】"
+UpdateSource.Choose: "请选择更新渠道\n如果您不知道选什么，请选择【Gitee】或【方块远程（境内首选）】"
 UpdateSource.Github: "Github（境外首选）"
+UpdateSource.GithubMirror: "Github（国内镜像）"
 UpdateSource.Gitee: "Gitee"
-UpdateSource.FinalApi: "Api（境内首选）"
+UpdateSource.FangKuaiRemote: "方块远程（境内首选）"
 
 # 无法加入公开游戏原因 / Unable to join public game reasons
 CanNotJoinPublicRoomNoLatest: "我们有一个重要的更新，请更新本模组\n否则您无法加入公开房间"
@@ -198,8 +200,12 @@ MainMenuStyle.NotFound: "未下载"
 MainMenuStyle.NotApply: "应用"
 MainMenuStyle.Applied: "应用中"
 
-# 资源包
+# 资源包 / Package
 Package.MainMenuStyle: "主页风格包"
+Package.WorldMusic: "世界音乐包"
+Package.EmberVeinsDemo1: "「愿烬星迴」Demo音乐包（第1弹）"
+Package.MotesInResonance: "「琐尘淬律」专辑包"
+Package.OtherMusic: "其他音乐包"
 
 # 音频播放 / Audio Playback
 MusPlay.Mode0: "单次播放"
@@ -213,19 +219,27 @@ MusPlay.NoFound: "文件丢失"
 # 官方音乐 / Musics
 Mus.FinalSuspect: "Final Suspect 终极嫌疑"
 Mus.GongXiFaCai: "恭喜发财"
-Mus.NeverGonnaGiveYouUp: "Never Gonna Give You Up"
-Mus.CountingStars: "Counting Stars"
+Mus.NeverGonnaGiveYouUp: "Never Gonna Give You Up（永不放弃你）"
+Mus.CountingStars: "Counting Stars（数星星）"
+
+Mus.ChasingDawn: "逐光寻晓"
+Mus.ReturnToSimplicity2: "返璞归真（完整版）"
+Mus.GatheredEchoes: "拾籁安尘"
+
+Mus.Trajectory: "[回望末端时]航迹"
+
+Mus.Affinity: "祉缘谐乐"
 Mus.TidalSurge: "塘潮暗涌"
+Mus.ReturnToSimplicity: "返璞归真"
+
+Mus.DawnmistEchoes: "曙霭跫迹"
 Mus.TrailOfTruth: "真理之途"
 Mus.Interlude: "插叙"
 Mus.Fractured: "破碎"
+Mus.StruggleAgainstFadingFlame: "峙燃绝焰"
 Mus.ElegyOfFracturedVow: "誓碎终殇"
 Mus.VestigiumSplendoris: "余璨"
-Mus.ReturnToSimplicity: "返璞归真"
-Mus.ReturnToSimplicity2: "返璞归真（完整版）"
-Mus.ChasingDawn: "逐光寻晓"
-Mus.StruggleAgainstFadingFlame: "峙燃绝焰"
-Mus.Affinity: "祉缘谐乐"
+Mus.FinisAnteInitium: "让故事在启程前落幕"
 
 # 会议界面职业标签 / DisplayedRoleTag
 DisplayedRoleTag.Role: "职业"
