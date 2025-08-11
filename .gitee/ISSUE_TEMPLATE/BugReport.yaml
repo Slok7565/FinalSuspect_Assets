@@ -1,0 +1,48 @@
+name: Bug 反馈
+description: 提交 Bug 反馈
+title: "[Bug]:"
+labels: [Bug]
+assignees:
+  - Slok7565
+body:
+  - type: checkboxes
+    attributes:
+      label: 前置条件
+      description: 感谢你花时间填写此错误报告！在开始之前，您需要确认以下内容。
+      options:
+        - label: 您使用的是最新版本的FinalSuspect。
+          required: true
+        - label: 这是FinalSusepct本身存在的问题。
+          required: true
+  - type: markdown
+    attributes:
+      value: "## 详细信息"
+  - type: textarea
+    attributes:
+      label: "发生了什么？"
+      description: "为了方便我们管理，请不要在同一个issue报告多个问题。"
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: 该问题的复现频率是?
+      options:
+        - 该问题可以稳定复现。
+        - 该问题可以复现，但概率并非100%。
+        - 问题复现概率的取决于用户设备或环境。
+        - 我不知道。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "该问题的复现步骤是?"
+      description: "如果可以稳定复现，请提供详细的步骤。<br>即使无法稳定复现，也请提供你是如何发现的步骤。"
+  - type: textarea
+    attributes:
+      label: "相关日志输出"
+      description: "打开游戏设置导出日志，将导出FinalSuspect日志复制并将其粘贴至此处。"
+      render: shell
+  - type: textarea
+    attributes:
+      label: "附加信息"
+      description: "如果你还有其他需要提供的信息，可以在这里填写。"
