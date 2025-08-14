@@ -15,12 +15,12 @@ Team.Crew: "Team-Crewmate"
 
 # 伪装者数量文字 / Impostor Text
 ImpostorNum.Imp: "<color=#ff1919>There are {0} impostors in our team</color>"
-ImpostorNum.Imp_Only: "<color=#ff1919>There is only 1 impostor among the crowd</color>"
+ImpostorNum.Imp_Only: "<color=#8d8d8d>There is only 1 impostor among the crowd</color>"
 ImpostorNum.Crew: "<color=#8cffff>There are </color><color=#ff1919>{0} impostors</color><color=#8cffff> among us</color>"
 
 # 阵营开场
 IntroText.Imp: "<color=#ff1919>Let evils DOMINATE THE WORLD!</color>"
-IntroText.Imp_Only: "<color=#ff1919>Though alone, you have ENDLESS POWER!</color>"
+IntroText.Imp_Only: "<color=#a44c4c>Though alone, you have ENDLESS POWER!</color>"
 IntroText.Crewmate: "<color=#8cffff>Complete your tasks and find out the impostors!</color>"
 
 # 原版职业 / Vanilla
@@ -192,6 +192,9 @@ MainMenuStyle.Description_MiraStudio: "\"—Flowers bloom like waves, gentle as 
 MainMenuStyle.Title_XtremeWave: "<color=#cdfffd>XtremeWave</color>"
 MainMenuStyle.Author_XtremeWave: "Slok"
 MainMenuStyle.Description_XtremeWave: "「Final Striving Toward Excellence, Dream Commanding Surging Waves!」<size=80%>\n\nNamed by: Slok</size>"
+MainMenuStyle.Title_EmergencyMeeting: "<color=#41baff>Emergency Meeting!</color><size=80%>(Classic TORE background)</size>"
+MainMenuStyle.Author_EmergencyMeeting: "AIGE"
+MainMenuStyle.Description_EmergencyMeeting: "「Who is the impostor!?」<size=80%>\n\nName: 毒液</size>"
 MainMenuStyle.Title_WhenLookingBackAtTheEnd: "<color=#d81919>When Looking Back At The End</color><color=#d8a911><size=80%> (Collaboration)</size></color>"
 MainMenuStyle.Author_WhenLookingBackAtTheEnd: "MAMTI.麦麦头"
 MainMenuStyle.Description_WhenLookingBackAtTheEnd: "「Looking back at the end, it all ends at the end」<size=80%>\n\nNamed by: MAMTI.麦麦头</size>"

@@ -15,12 +15,12 @@ Team.Crew: "Команда-Член Экипажа"
 
 # 伪装者数量文字 / Impostor Text
 ImpostorNum.Imp: "<color=#ff1919>В нашей команде {0} предателя(ей)</color>"
-ImpostorNum.Imp_Only: "<color=#ff1919>Среди нас только 1 предатель</color>"
+ImpostorNum.Imp_Only: "<color=#8d8d8d>Среди нас только 1 предатель</color>"
 ImpostorNum.Crew: "<color=#8cffff>Среди нас </color><color=#ff1919>{0} предателя(ей)</color><color=#8cffff></color>"
 
 # 阵营开场
 IntroText.Imp: "<color=#ff1919>Пусть зло ПОДЧИНИТ СЕБЕ МИР!</color>"
-IntroText.Imp_Only: "<color=#ff1919>Хоть ты и один, у тебя БЕЗГРАНИЧНАЯ СИЛА!</color>"
+IntroText.Imp_Only: "<color=#a44c4c>Хоть ты и один, у тебя БЕЗГРАНИЧНАЯ СИЛА!</color>"
 IntroText.Crewmate: "<color=#8cffff>Выполняй задания и выяви предателей!</color>"
 
 # 原版职业 / Vanilla
@@ -192,6 +192,9 @@ MainMenuStyle.Description_MiraStudio: "\"—Цветы цветут как во�
 MainMenuStyle.Title_XtremeWave: "<color=#cdfffd>XtremeWave</color>"
 MainMenuStyle.Author_XtremeWave: "Slok"
 MainMenuStyle.Description_XtremeWave: "«Final стремится к совершенству, мечта командует поднимающимися волнами!»<size=80%>\n\nНазвано: Slok</size>"
+MainMenuStyle.Title_EmergencyMeeting: "<color=#41baff>Экстренное совещание！</color><size=80%>(Классический фон TORE)</size>"
+MainMenuStyle.Author_EmergencyMeeting: "AIGE"
+MainMenuStyle.Description_EmergencyMeeting: "«Кто самозванец!?»<size=80%\n\nИмя: 毒液</size>"
 MainMenuStyle.Title_WhenLookingBackAtTheEnd: "<color=#d81919>Оглядываясь в конце</color><color=#d8a911><size=80%> (Сотрудничество)</size></color>"
 MainMenuStyle.Author_WhenLookingBackAtTheEnd: "MAMTI.麦麦头"
 MainMenuStyle.Description_WhenLookingBackAtTheEnd: "«Оглядываясь в конце, всё заканчивается в конце»<size=80%>\n\nНазвано: MAMTI.麦麦头</size>"
