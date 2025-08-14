@@ -1,0 +1,31 @@
+name: 新功能建议
+description: 提交新功能或原功能优化建议
+title: "[Feat]:"
+labels: [Considered]
+assignees:
+  - Slok7565
+body:
+  - type: checkboxes
+    id: preface
+    attributes:
+      label: 前置条件
+      description: 你好!感谢你为FinalSuspect提交新功能建议。在开始之前，请先确认以下内容。
+      options:
+        - label: 您使用的是最新版本的FinalSuspect。
+          required: true
+  - type: markdown
+    id: details
+    attributes:
+      value: "## 详细信息"
+  - type: textarea
+    id: description
+    attributes:
+      label: "描述一下此特性"
+      description: "为了方便我们管理，请不要在同一个issue下提交多个功能。"
+    validations:
+      required: true
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: "附加信息"
+      description: "如果你还有其他需要提供的信息，可以在这里填写。"
