@@ -15,12 +15,12 @@ Team.Crew: "Equipo-Tripulante"
 
 # 伪装者数量文字 / Impostor Text
 ImpostorNum.Imp: "<color=#ff1919>Hay {0} impostores en nuestro equipo</color>"
-ImpostorNum.Imp_Only: "<color=#ff1919>Solo hay 1 impostor entre nosotros</color>"
+ImpostorNum.Imp_Only: "<color=#8d8d8d>Solo hay 1 impostor entre nosotros</color>"
 ImpostorNum.Crew: "<color=#8cffff>Hay </color><color=#ff1919>{0} impostores</color><color=#8cffff> entre nosotros</color>"
 
 # 阵营开场
 IntroText.Imp: "<color=#ff1919>¡Que el mal DOMINE EL MUNDO!</color>"
-IntroText.Imp_Only: "<color=#ff1919>¡Aunque estés solo, tienes un PODER INFINITO!</color>"
+IntroText.Imp_Only: "<color=#a44c4c>¡Aunque estés solo, tienes un PODER INFINITO!</color>"
 IntroText.Crewmate: "<color=#8cffff>¡Completa tus tareas y encuentra a los impostores!</color>"
 
 # 原版职业 / Vanilla
@@ -192,6 +192,9 @@ MainMenuStyle.Description_MiraStudio: "\"—Las flores florecen como olas, suave
 MainMenuStyle.Title_XtremeWave: "<color=#cdfffd>XtremeWave</color>"
 MainMenuStyle.Author_XtremeWave: "Slok"
 MainMenuStyle.Description_XtremeWave: "「Final esforzándose por la excelencia, ¡el sueño comanda olas empujantes!」<size=80%>\n\nNombrado por: Slok</size>"
+MainMenuStyle.Title_EmergencyMeeting: "<color=#41baff>¡Reunión de emergencia！</color><size=80%>(Fondo clásico TORE)</size>"
+MainMenuStyle.Author_EmergencyMeeting: "AIGE"
+MainMenuStyle.Description_EmergencyMeeting: "«¿Quién es el impostor!?»<size=80%>\n\nNombre: 毒液</size>"
 MainMenuStyle.Title_WhenLookingBackAtTheEnd: "<color=#d81919>Cuando Mires Atrás al Final</color><color=#d8a911><size=80%> (Colaboración)</size></color>"
 MainMenuStyle.Author_WhenLookingBackAtTheEnd: "MAMTI.麦麦头"
 MainMenuStyle.Description_WhenLookingBackAtTheEnd: "「Mirando atrás al final, todo termina al final」<size=80%>\n\nNombrado por: MAMTI.麦麦头</size>"

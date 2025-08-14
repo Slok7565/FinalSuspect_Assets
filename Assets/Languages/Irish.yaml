@@ -15,12 +15,12 @@ Team.Crew: "Foireann-Fhoireann"
 
 # 伪装者数量文字 / Impostor Text
 ImpostorNum.Imp: "<color=#ff1919>Tá {0} fhealltóir inár bhfoireann</color>"
-ImpostorNum.Imp_Only: "<color=#ff1919>Níl ach 1 fhealltóir i measc an slua</color>"
+ImpostorNum.Imp_Only: "<color=#8d8d8d>Níl ach 1 fhealltóir i measc an slua</color>"
 ImpostorNum.Crew: "<color=#8cffff>Tá </color><color=#ff1919>{0} fhealltóir</color><color=#8cffff> i meascainn</color>"
 
 # 阵营开场
 IntroText.Imp: "<color=#ff1919>Lig don olc DOMHAN A RIALÚ!</color>"
-IntroText.Imp_Only: "<color=#ff1919>Cé uaigneach, tá CUMHACHT GAN DEIREADH agat!</color>"
+IntroText.Imp_Only: "<color=#a44c4c>Cé uaigneach, tá CUMHACHT GAN DEIREADH agat!</color>"
 IntroText.Crewmate: "<color=#8cffff>Críochnaigh do thascanna agus aimsigh na fealltóirí!</color>"
 
 # 原版职业 / Vanilla
@@ -192,6 +192,9 @@ MainMenuStyle.Description_MiraStudio: "\"—Bláthanna ag bláthú cosúil le to
 MainMenuStyle.Title_XtremeWave: "<color=#cdfffd>XtremeWave</color>"
 MainMenuStyle.Author_XtremeWave: "Slok"
 MainMenuStyle.Description_XtremeWave: "「Final ag streachailt i dtreo barr feabhais, aisling ag ordú tonnta ag sileadh!」<size=80%>\n\nAinmnithe ag: Slok</size>"
+MainMenuStyle.Title_EmergencyMeeting: "<color=#41baff>Cruinniú Éigeandála!</color><size=80%>(Cúlra clasaiceach TORE)</size>"
+MainMenuStyle.Author_EmergencyMeeting: "AIGE"
+MainMenuStyle.Description_EmergencyMeeting: "«Cé hé an impostor!?»<size=80%>\n\nAinm: 毒液</size>"
 MainMenuStyle.Title_WhenLookingBackAtTheEnd: "<color=#d81919>Nuair a Fheiceann tú Siar ag an Deireadh</color><color=#d8a911><size=80%> (Comhoibriú)</size></color>"
 MainMenuStyle.Author_WhenLookingBackAtTheEnd: "MAMTI.麦麦头"
 MainMenuStyle.Description_WhenLookingBackAtTheEnd: "「Ag féachaint siar ag an deireadh, críochnaíonn gach rud ag an deireadh」<size=80%>\n\nAinmnithe ag: MAMTI.麦麦头</size>"

@@ -15,12 +15,12 @@ Team.Crew: "クルー陣営"
 
 # 伪装者数量文字 / Impostor Text
 ImpostorNum.Imp: "<color=#ff1919>味方の中にインポスターが{0}人います</color>"
-ImpostorNum.Imp_Only: "<color=#ff1919>この中にインポスターはたった1人だけ</color>"
+ImpostorNum.Imp_Only: "<color=#8d8d8d>この中にインポスターはたった1人だけ</color>"
 ImpostorNum.Crew: "<color=#8cffff>私たちの中に</color><color=#ff1919>インポスターが{0}人</color><color=#8cffff>います</color>"
 
 # 阵营开场
 IntroText.Imp: "<color=#ff1919>悪が世界を支配する！</color>"
-IntroText.Imp_Only: "<color=#ff1919>孤独でも、無限の力を持っている！</color>"
+IntroText.Imp_Only: "<color=#a44c4c>孤独でも、無限の力を持っている！</color>"
 IntroText.Crewmate: "<color=#8cffff>タスクを完了し、インポスターを見つけろ！</color>"
 
 # 原版职业 / Vanilla
@@ -192,6 +192,9 @@ MainMenuStyle.Description_MiraStudio: "「—花が波のように咲き、風�
 MainMenuStyle.Title_XtremeWave: "<color=#cdfffd>XtremeWave</color>"
 MainMenuStyle.Author_XtremeWave: "Slok"
 MainMenuStyle.Description_XtremeWave: "「Finalが卓越に向かって努力し、夢が押し寄せる波を指揮する！」<size=80%>\n\n命名：Slok</size>"
+MainMenuStyle.Title_EmergencyMeeting: "<color=#41baff>緊急会議！</color><size=80%>(TOREクラシック背景)</size>"
+MainMenuStyle.Author_EmergencyMeeting: "AIGE"
+MainMenuStyle.Description_EmergencyMeeting: "「誰がインポスター！？」<size=80%\n\n名称: 毒液</size>"
 MainMenuStyle.Title_WhenLookingBackAtTheEnd: "<color=#d81919>最後に振り返るとき</color><color=#d8a911><size=80%>（コラボ）</size></color>"
 MainMenuStyle.Author_WhenLookingBackAtTheEnd: "MAMTI.麦麦头"
 MainMenuStyle.Description_WhenLookingBackAtTheEnd: "「最後に振り返るとき、すべては終わりで終わる」<size=80%>\n\n命名：MAMTI.麦麦头</size>"
