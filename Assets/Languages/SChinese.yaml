@@ -24,19 +24,6 @@ IntroText.Imp_Only: "<color=#a44c4c>尽管独自一人，仍有无穷力量！</
 IntroText.Crewmate: "<color=#8cffff>完成你的任务，揪出那群坏蛋！</color>"
 
 # 原版职业 / Vanilla
-Role.Crewmate: "船员"
-Role.Engineer: "工程师"
-Role.Scientist: "科学家"
-Role.Tracker: "追踪者"
-Role.Noisemaker: "噪音制造者"
-Role.Detective: "侦探"
-Role.GuardianAngel: "守护天使"
-Role.Impostor: "伪装者"
-Role.Shapeshifter: "变形者"
-Role.Phantom: "幻影"
-Role.Viper: "毒蛇"
-Role.CrewmateGhost: "船员灵魂"
-Role.ImpostorGhost: "伪装者灵魂"
 CrewmateRole: "船员"
 ImpostorRole: "伪装者"
 CrewmateGhostRole: "船员灵魂"
@@ -57,6 +44,7 @@ HnSCrewmateGhostBlurbLong: "死了还看啥呀，你有任务能做吗？既然�
 DeathReason.Kill: "被杀"
 DeathReason.Exile: "驱逐"
 DeathReason.Disconnect: "断连"
+DeathReason.Judgement: "判决"
 
 # 客户端选项 / Client Options
 FinalSuspectOptions: "Final Suspect 选项"
@@ -348,17 +336,14 @@ Outro.Imps_WinBlurb: "邪恶将真理化为灰烬"
 FinalSuspectWelcomeText: "祝愿您拥有一场愉快的<color={0}>游戏体验</color>！"
 RetrieveVersionInfoFailed: "无法获取FinalSuspect信息"
 Website: "模组官网"
-MainMenuCredential: "{0} © 2025"
+MainMenuCredential: "{0} © 2026"
 LShift: "上一个大厅"
 RShift: "剪切板大厅"
 
 # 客户端平台 / Platforms
 Platforms.IPhone: "苹果"
 Platforms.Android: "安卓"
-Platforms.MicrosoftStore: "微软"
-Platform.IPhone: "苹果"
-Platform.Android: "安卓"
-Platform.MicrosoftStore: "微软"
+Platforms.StandaloneWin10: "微软"
 
 # 延迟显示 / Ping Tracker
 Ping: "延迟"
